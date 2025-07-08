@@ -48,6 +48,7 @@ export default [
 	"Laravel",
 	"Lua",
 	"Maven",
+	"MongoDB",
 	"Next",
 	"Node",
 	"Nuxt",
@@ -76,5 +77,4 @@ export default [
 	"Vue",
 	"WordPress",
 	"Zig",
-	"MongoDB",
 ] as readonly string[];
